@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dikss</h1>
+<h1 align="center">Hi, My Name Dikss</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 👨‍💻 All of my projects are available at [https://web.dikssoffc.xyz](https://web.dikssoffc.xyz)
 
 - 📫 How to reach me **support@dikssoffc.xyz**
 
-- ⚡ Fun fact **saya bahagia**
+- ⚡ Fun fact **Saya Suka Ngoding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
