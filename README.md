@@ -1,22 +1,50 @@
-<h1 align="center">Hallo, Nama Saya Dikss</h1>
-<h3 align="center">Saya merupakan remaja yang berasal dari Indonesia</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Diks+Offc.+16+YO;i'am+a+web,mobile+and+bot+developer">
+  </a>
+</h1>
 
-<p align="left"> <a href="https://instagram/dittajabg" target="blank"><img src="https://img.shields.io/twitter/follow/dittajabg?logo=instagram&style=for-the-badge" alt="dittajabg" /></a> </p>
+## Hello, I'm [Dikss Dev](https://web.dikssoffc.xyz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+[<img src="https://img.shields.io/badge/Website-dikss.offc-orange">](https://www.amirull.dev)
+[<img src="https://img.shields.io/badge/Email-support@dikssoffc.xyz-purple">](mailto:support@dikssoffc.xyz)
+<a href="https://www.instagram.com/dittajabg" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://wa.me/6282322129168" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-- 🌱 Hobby saya adalah **Ngoding Dan Membaca**
-
-- 👨‍💻 Semua akun sosial media saya [https://web.dikssoffc.xyz](https://web.dikssoffc.xyz)
-
-- 📫 Contact saya bila perlu **support@dikssoffc.xyz**
-
-- ⚡ Saya berusia **16 Tahun / 16 Years**
-
-<h3 align="left">Sosial Media Saya:</h3>
+## :rocket: Deployed on
 <p align="left">
-  <a href="https://twitter.com/dittajabg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dittajabg" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://instagram.com/dittajabg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/dittajabg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/https://youtube.com/@raditsesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@raditsesi" height="30" width="40" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-%23007ACC.svg?&style=for-the-badge&logo=azure&logoColor=white" alt="Azure"></a>
+  <a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.shields.io/badge/DigitalOcean-%2325A0DF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"></a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Linode-%2300A95C.svg?&style=for-the-badge&logo=linode&logoColor=white" alt="Netlify"></a>
+  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/Vultr-%230000FF.svg?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr"></a>
 </p>
 
-<h3 align="left">Bahasa Dan Alat:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> </p>
+## Database Used
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## :page_with_curl: I'm currently learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+## Repo Stats 🔥
+<p align="center">
+  <a href="https://github.com/RofanHyzer"><img src="https://github-readme-stats.vercel.app/api?username=RofanHyzer&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RofanHyzer"><img src="https://github-readme-streak-stats.herokuapp.com?user=RofanHyzer&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/RofanHyzer"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RofanHyzer&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/RofanHyzer"><img src="https://github-profile-trophy.vercel.app/?username=RofanHyzer&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
+</p>
