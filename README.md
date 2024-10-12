@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-%23007ACC.svg?&style=for-the-badge&logo=azure&logoColor=white" alt="Azure"></a>
   <a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.shields.io/badge/DigitalOcean-%2325A0DF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"></a>
-  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Linode-%2300A95C.svg?&style=for-the-badge&logo=linode&logoColor=white" alt="Netlify"></a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-%2300A95C.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
   <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/Vultr-%230000FF.svg?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr"></a>
 </p>
 
