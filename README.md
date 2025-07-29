@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Diks+Offc.;i'am+16+years+old;i'am+a+web,mobile+and+bot+developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Dikss+Offc.;i'am+16+years+old;i'am+a+web,mobile+and+bot+developer">
   </a>
 </h1>
 
 ## Hello, I'm [Dikss Dev](https://web.dikssoffc.xyz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-dikss.offc-orange">](https://web.dikssoffc.xyz)
+[<img src="https://img.shields.io/badge/Website-dikss.offc-orange">](https://link.dikssoffc.xyz)
 [<img src="https://img.shields.io/badge/Email-support@dikssoffc.xyz-purple">](mailto:support@dikssoffc.xyz)
 <a href="https://www.instagram.com/dittajabg" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6282322129168" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
